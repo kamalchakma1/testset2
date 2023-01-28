@@ -1,0 +1,14 @@
+.grid-container{
+    margin-top: 100px;
+    margin-left: 405px;
+    height: 300px;
+    width: 600px;
+}
+.ag-theme-alpine{
+    border-radius: 5px;
+    --ag-header-background-color:#6f7bd9;
+    --ag-border: none;
+    --ag-border-radius: 5px;
+    --ag-header-foreground-color: #fff;
+
+}
